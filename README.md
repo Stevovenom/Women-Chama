@@ -59,7 +59,7 @@ Git
 Steps
 
 Clone the Repository :inbox_tray:
-git clone https://github.com/your-username/women-chama.git
+git clone https://github.com/stevovenom/women-chama.git
 cd women-chama
 
 
